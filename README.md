@@ -5,7 +5,7 @@ Challenge de Alura ONE Ciencia de datos.
 
 Este proyecto documenta el proceso de análisis de datos para identificar los factores que contribuyen a la evasión de clientes de la empresa de telecomunicaciones ficticia *TelecomX*. El análisis incluye la carga, limpieza, transformación y visualización de datos para extraer insights.
 
-## Fases de trabajo:
+## Fases de trabajo.
 
 *  **Extracción de Datos:** Descarga y carga de los datos de clientes desde un archivo JSON remoto.
 *  **Transformación de Datos:**
@@ -20,7 +20,7 @@ Este proyecto documenta el proceso de análisis de datos para identificar los fa
     *   Análisis de la matriz de correlación entre variables numéricas y binarias.
 *  **Informe Final:** Resumen de las principales conclusiones del análisis y recomendaciones estratégicas basadas en los hallazgos.
 
-## Hallazgos del análisis:
+## Hallazgos del análisis.
 El análisis reveló varios factores significativos asociados con la evasión de clientes:
 
 *   **Tipo de Contrato:** Los clientes con contratos **mes a mes** tienen una probabilidad de evasión considerablemente mayor en comparación con aquellos con contratos a largo plazo (uno o dos años).
@@ -30,7 +30,7 @@ El análisis reveló varios factores significativos asociados con la evasión de
 *   **Servicios Adicionales:** Los clientes que **no** tienen servicios como Seguridad en Línea, Respaldo en Línea, Protección de Dispositivos y Soporte Técnico tienden a evadir más. Estos servicios parecen ser importantes para la retención.
 *   **Cargos:** Existe una correlación positiva entre los **cargos mensuales y totales** y la evasión, sugiriendo que los clientes con facturas más altas podrían ser más propensos a irse.
 
-## Recomendaciones:
+## Recomendaciones.
 Basado en estos hallazgos, se sugieren las siguientes acciones para reducir la evasión:
 
 *   Ofrecer incentivos para que los clientes de contrato mes a mes migren a planes de mayor duración.
